@@ -1,0 +1,23 @@
+.item {
+  color: greenyellow;
+  padding-left: 20px;
+}
+
+.item img {
+  width: 50px;
+  height: 50px;
+  border-radius: 30px;
+}
+
+.like img {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  padding: 3px;
+  border-radius: 13px;
+  margin: 2px;
+}
+
+.like {
+  margin-bottom: 10px;
+}
